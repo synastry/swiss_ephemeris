@@ -1,0 +1,1 @@
+Swiss Ephemeris AS-IS from http://www.astro.com/swisseph/swephinfo_e.htm
