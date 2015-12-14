@@ -4,6 +4,8 @@ project( swiss_ephemeris )
 set( swiss_ephemeris_VERSION_MAJOR 2 )
 set( swiss_ephemeris_VERSION_MINOR 04 )
 
+set( CMAKE_C_FLAGS "-Wall -Wextra -Werror -Wno-error=missing-field-initializers -Wno-error=unused-parameter -Wno-error=unused-but-set-variable" )
+
 add_library( swe
     src/swedate.c
     src/swehouse.c

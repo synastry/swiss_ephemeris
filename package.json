@@ -1,0 +1,16 @@
+{
+  "name": "swiss_ephemeris",
+  "version": "2.4.0",
+  "description": "Swiss Ephemeris (C library)",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "author": "",
+  "license": "ISC",
+  "gypfile": true
+}
