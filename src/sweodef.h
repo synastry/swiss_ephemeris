@@ -264,7 +264,7 @@ typedef unsigned char UCHAR;
  
 /* #define forward static  obsolete */
 
-#define AS_MAXCH 256    /* used for string declarations, allowing 255 char+\0 */
+#define AS_MAXCH 1024    /* used for string declarations, allowing 255 char+\0 */
  
 #define DEGTORAD 0.0174532925199433
 #define RADTODEG 57.2957795130823
