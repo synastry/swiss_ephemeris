@@ -1,6 +1,6 @@
 {
   "name": "swiss_ephemeris",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "description": "Swiss Ephemeris (C library)",
   "main": "index.js",
   "directories": {
